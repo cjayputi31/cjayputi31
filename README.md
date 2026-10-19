@@ -30,7 +30,12 @@
 
 ---
 
-### 🚀 **About Me**
+### 🚀 **Interactive About Me**
+
+<details open>
+  <summary><b>👨‍💻 Developer Overview & Bio</b></summary>
+<br>
+  <p>👋 Hi! I'm a passionate web developer focused on building intuitive, clean, and modern digital web applications.</p>
 
 ```javascript
 const cjay = {
@@ -41,6 +46,17 @@ const cjay = {
   motto: "Turn ideas into clean, functional code."
 };
 ```
+</details>
+
+<details>
+  <summary><b>🔭 Current Focus & Future Goals</b></summary>
+<br>
+  <ul>
+    <li><b>Currently Working On:</b> Building modern interactive front-ends and scalable REST APIs</li>
+    <li><b>Goals for 2026:</b> Mastering Full-Stack Next.js development & contributing to Open Source</li>
+    <li><b>Trivia:</b> Proud Pull Shark 🦈 badge holder on GitHub! Enjoys tech tinkering and gaming.</li>
+  </ul>
+</details>
 
 ---
 
@@ -93,7 +109,7 @@ const cjay = {
   <a href="https://github.com/cjayputi31">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:cjayamorandarte@gmail.com">
+  <a href="mailto:cjayputi31@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/cjayputi31">
